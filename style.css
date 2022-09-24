@@ -1,0 +1,16 @@
+#GFG {
+    width: 300px;
+    padding: 50px;
+    height: 150px;
+    border: 2px solid green;
+    margin-left: 50px;
+}
+.cout{
+    height: 400px;
+    width: 400px;
+    border: 2px solid blue;
+    margin: 50px;
+    background-color: aqua;
+    padding: 20px;
+    color: rgb(41, 40, 40);
+}
